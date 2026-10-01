@@ -1,4 +1,4 @@
-public class Main {
+public class main {
     public static void main(String[] args) {
         int toplam = 0;
         for (int i =1; i <=20; i++) {
